@@ -11,15 +11,15 @@
 
 
 #### Background
-My background is in k-12 education advocacy - prior to graduate school, I monitored the education outcomes of foster youth and incarcerated youth in LA County, focusing specifically on how school districts spent state funding and advocating for greater investments in academic support programs and social-emotional services for underserved student populations.
+My background is in k-12 education advocacy - prior to graduate school, I monitored the education outcomes of foster youth and incarcerated youth in LA County, focusing specifically on how school districts spent state funding and advocating for more academic support programs and social-emotional services for underserved student populations.
 
 Since starting graduate school, I have undertaken a variety of individual and group projects as part of my coursework and as part of formal work experiences. Below is a summary of these projects.
 
 #### Analytics / Data Science Project Highlights
 | Title                                                      | Topics                          | Methods                                       |
 |-----------------------------------------------------------:|---------------------------------| -------------------------------               |
-| Period Poverty in Cook County, IL                          | APIs, Webscraping, GIS, Statistical Analysis     | Buffers, Intersections
-| Estimating Socio-economic and Demographic Biases in City of Boston's 311 Data | Project Management, Statistical and Geospatial Analysis, Data Visualization | Buffers, Spatial Joins, Matching, Linear Regressions        |
+| Period Poverty in Cook County, IL                          | APIs, Webscraping, GIS, Statistical Analysis     | Buffers, intersections
+| Estimating Socio-economic and Demographic Biases in City of Boston's 311 Data | Project Management, Statistical and Geospatial Analysis, Data Visualization | Buffers, spatial joins, matching, linear regressions        |
 
 #### ML Project Highlights
 
