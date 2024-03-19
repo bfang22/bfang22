@@ -30,13 +30,14 @@ Since starting graduate school, I have undertaken a variety of individual and gr
 | Sentiment Analysis and Fact-Checking Climate Change Claims | BoW, LSTM, GPT-2, BERT          | Topic modeling, natural language inference, fine-tuning LLMs  |
 
 
-####
+
 <details>
-<summary>Here are my top languages</summary>
+<summary>My top languages</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python|
 |     2| SQL  |
-|     3| Go    |
+|     3| Go      |
 
 </details>
