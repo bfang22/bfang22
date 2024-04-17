@@ -2,9 +2,9 @@
 
 - 🔭 My name is Betty: I'm currently completing my M.S. in Computational Analysis and Public Policy at the University of Chicago
 - 🌱 I'm learning (this quarter):
-  - how to apply large-scale computing methods to social science topics
-  - how to evaluate policies and programs (RCTs, IVs, Panel Data, RDD)
-  - how to evaluate higher education policies (admissions, affordability) and workplace / family policies (UBI, parental leave)
+  - large-scale computing methods for the social sciences
+  - program evaluation (RCTs, IVs, Panel Data, RDD)
+  - data engineering platforms (GCP)
 - 🕵️‍♀️ I’m looking to make an impact in the public sector: a role where I can dig into social inequities and sub-optimal services, and help design the solution.
 - 💬 Ask me about my project on 311 potholes repair requests for the City of Boston last summer! 🕳️ 🚙
 - 📮 Reach me at hellobettyfang@gmail.com
@@ -23,7 +23,7 @@ Since starting graduate school, I have undertaken a variety of individual and gr
 
 #### ML Project Highlights
 
-| Title                                                      | Models                          | Topics                                        |
+| Title                                                      | Models                          | Methods                                        |
 |-----------------------------------------------------------:|---------------------------------| -------------------------------               |
 | Predicting Supreme Court Case Outcomes                     | Logistic Regression, Multilayer Perceptron, Random Forest, SVC                | Text processing and feature engineering       |
 | Predicting Shelter Outcomes of Cats for City of Austin     | Multinomial Logistic Regression | Multi-label classification, oversampling      |
