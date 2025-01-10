@@ -1,19 +1,19 @@
 ### About Me 
 
-- 🔭 My name is Betty: I'm currently completing my M.S. in Computational Analysis and Public Policy at the University of Chicago
-- 🌱 I'm learning (this quarter):
+- 🔭 My name is Betty: I'm currently a Data Scientist at Empower Project and a recent graduate of the M.S. in Computational Analysis and Public Policy program at the University of Chicago
+- 🕵️‍♀️ I’m passionate about making an impact in the non-profit and public sectors as I love to tackle social policy issues - with quantitative methods, grassroots organizing, and art.
+- 🌱 In my final quarter at school, I was learning the following:
   - large-scale computing methods for the social sciences
   - program evaluation (RCTs, IVs, Panel Data, RDD)
   - data engineering platforms (GCP)
-- 🕵️‍♀️ I’m looking to make an impact in the public sector: a role where I can dig into social inequities and sub-optimal services, and help design the solution.
-- 💬 Ask me about my project on 311 potholes repair requests for the City of Boston last summer! 🕳️ 🚙
+- 💬 Ask me about my project on 311 potholes repair requests for the City of Boston last last summer! 🕳️ 🚙
 - 📮 Reach me at hellobettyfang@gmail.com
 
 
 #### Background
-My background is in k-12 education advocacy - prior to graduate school, I monitored the education outcomes of foster youth and incarcerated youth in LA County, focusing specifically on how school districts spent state funding and advocating for more academic support programs and social-emotional services for underserved student populations.
+My background is in k-12 education policy and advocacy - prior to graduate school, I monitored the education outcomes of foster youth and incarcerated youth in LA County, focusing specifically on how school districts spent state funding and advocating for more academic support programs and social-emotional services for underserved student populations.
 
-Since starting graduate school, I have undertaken a variety of individual and group projects as part of my coursework and as part of formal work experiences. Below is a summary of these projects.
+During graduate school, I undertook a variety of individual and group projects as part of my coursework and as part of formal work experiences. Below is a summary of these projects.
 
 #### Analytics / Data Science Project Highlights
 | Title                                                      | Topics                          | Methods                                       |
